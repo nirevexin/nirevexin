@@ -6,7 +6,7 @@ Enthusiastic about the world of data and predictions. I love physics and mathema
 
 **A little stack of things I happened to work with:**
 
-`SQL` `PostgreSQL` `Python` `Pandas` `Scikit-learn` `LightGBM` `CatBoost` `NumPy` `nltk` `NLP` `Keras` `Times Series`
+`SQL` `PostgreSQL` `Python` `Pandas` `Scikit-learn` `LightGBM` `CatBoost` `NumPy` `nltk` `NLP` `Keras` `Time Series`
 `Jupyter Notebook` `VSCode` `Linux` `Docker` `Git` `Linear Algebra` `Calculus` `Statistics & Probability`
 `BI` `A/B Testing` `Clustering` `Anomaly Detection` `EDA` 
 
