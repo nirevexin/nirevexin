@@ -8,7 +8,7 @@ Enthusiastic about the world of data and predictions. I love physics and mathema
 
 `SQL` `PostgreSQL` `Python` `Pandas` `Scikit-learn` `LightGBM` `CatBoost` `NumPy` `nltk` `NLP` `Keras` `Time Series`
 `Jupyter Notebook` `VSCode` `Linux` `Docker` `Git` `Linear Algebra` `Calculus` `Statistics & Probability`
-`BI` `A/B Testing` `Clustering` `Anomaly Detection` `EDA` 
+`BI` `A/B Testing` `Clustering` `Anomaly Detection` `EDA` ` Seaborn` ` Matplotlib` 
 
 
 <div>
