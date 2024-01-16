@@ -22,5 +22,5 @@ Enthusiastic about the world of data and predictions. I love physics and mathema
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
-
-![](https://komarev.com/ghpvc/?username=ipsiman)
+----
+![](https://komarev.com/ghpvc/?username=nirevexin)
