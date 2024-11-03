@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Alexey!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Data Scientist / Data Analyst </h3>
+<h3 align="center">Full Stack Data Scientist </h3>
 
 Enthusiastic about the world of data and predictions. I love physics and mathematics and I'm always up to date with new discoveries.
 
