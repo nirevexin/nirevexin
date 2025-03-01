@@ -1,10 +1,4 @@
-<h1 align="center"> Hey there! I'm Alexey!
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Full Stack Data Scientist </h3>
 
-Enthusiastic about the world of data and predictions. I love physics and mathematics and I'm always up to date with new discoveries.
-
-**A little stack of things I happened to work with:**
 
 `NoSQL` `SQL` `DWH` `PostgreSQL` `Python` `Pandas` `Scikit-learn` `LightGBM` `CatBoost` `NumPy` `BERT` `Word2vec` `nltk` `NLP` `Keras` `PyTorch` `Time Series`
 `Jupyter Notebook` `VSCode` `Linux` `Docker` `Git` `Linear Algebra` `Calculus` `Statistics & Probability` `Exploratory Data Analysis (EDA)`
