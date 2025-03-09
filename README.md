@@ -1,11 +1,10 @@
 
 
-`NoSQL` `SQL` `DWH` `PostgreSQL` `Python` `Pandas` `Scikit-learn` `LightGBM` `CatBoost` `NumPy` `BERT` `Word2vec` `nltk` `NLP` `Keras` `PyTorch` `Time Series`
-`Jupyter Notebook` `VSCode` `Linux` `Docker` `Git` `Linear Algebra` `Calculus` `Statistics & Probability` `Exploratory Data Analysis (EDA)`
-`BI` `A/B Testing` `Clustering` `Anomaly Detection` `Data Visualization` `Power BI` `Tableau` `Seaborn` ` Matplotlib`
+`AWS` `NoSQL` `SQL` `DWH` `PostgreSQL` `Python` `Power BI`  `Seaborn` ` Matplotlib` `Linux` 
 
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
