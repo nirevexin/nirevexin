@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋
 
 <p align="center">
-  I'm a <strong>Data Analyst | Data Engineer</strong> with hands-on experience in automating ETL processes and optimizing data pipelines in cloud environments. <br>
-  I've designed data architectures from scratch following methodologies like <strong>Kimball</strong>, and implemented real-time data visualization solutions. <br>
-  I've also worked on data science projects and held roles as a data analyst across various industries.
+  <em>💼 Data Analyst | Data Engineer</em><br><br>
+  🔧 Experienced in automating <strong>ETL processes</strong> and optimizing data pipelines in <strong>cloud environments</strong>.<br>
+  🏗️ Built data architectures from scratch using methodologies like <strong>Kimball</strong>.<br>
+  📊 Delivered <strong>real-time dashboards</strong> and data visualization solutions.<br>
+  🧠 Worked on <strong>data science projects</strong> and held multiple <strong>data analyst</strong> roles.<br>
 </p>
 
 ---
