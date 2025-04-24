@@ -1,6 +1,6 @@
-<p align="center">
-  <em>I'm a 💼 Data Analyst | Data Engineer | Data Scientist</em><br><br>
-</p>
+<h1 align="center">
+  <em>💼 Data Analyst | Data Engineer | Data Scientist</em><br><br>
+</h1>
 
 ---
 
