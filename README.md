@@ -1,11 +1,5 @@
-<h1 align="center">Hi there 👋
-
 <p align="center">
-  <em>I'm a 💼 Data Analyst | Data Engineer</em><br><br>
-  🔧 Experienced in automating <strong>ETL processes</strong> and optimizing data pipelines in <strong>cloud environments</strong>.<br>
-  🏗️ I build data architectures from scratch using methodologies like <strong>Kimball</strong>.<br>
-  📊 I deliver <strong>real-time dashboards</strong> and data visualization solutions.<br>
-  🧠 I worked on <strong>data science projects</strong> and held multiple <strong>data analyst</strong> roles.<br>
+  <em>I'm a 💼 Data Analyst | Data Engineer | Data Scientist</em><br><br>
 </p>
 
 ---
